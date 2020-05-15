@@ -1,0 +1,13 @@
+- Stress-strain.txt
+
+strain, stress, MPa (units of stress)
+0, 0,
+0.01, 2,
+...
+
+
+- import the data, clean the data,
+
+- run a function to generate parameters,
+
+- save them in to .yaml
