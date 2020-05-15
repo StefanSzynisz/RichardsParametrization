@@ -10,4 +10,4 @@ strain, stress, MPa (units of stress)
 
 - run a function to generate parameters,
 
-- save them in to .yaml
+- save the parameters in text file or .yaml
