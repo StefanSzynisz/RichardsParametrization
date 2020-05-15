@@ -1,5 +1,6 @@
 function [xE,fvalE] = FivePOpt(e,s,ki,ky,ry,ny,eo,visualize)
-    
+
+%This is a temporary comment.
 %Destroys Post-Peak Data:
     [~,indmax] = max(s);
     e(indmax+1:end) = []; s(indmax+1:end) = [];
